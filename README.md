@@ -7,3 +7,6 @@ This project is a web-based archive for the Ram Ranch discord server, designed t
 - **API**: Backend API for managing and retrieving data.
 - **Easy Data Management**: Uses JSON files for data storage, making it easy to update without needing a full database.
 - **Responsive UI**: Styled with CSS frameworks
+
+
+This project is licensed under the MIT License.
